@@ -8,7 +8,8 @@ This repository demonstrates practical GUI development, REST API integration, ex
 
 ## 📸 Application Preview
 
-![Random Joke Generator](screenshots/application.png)
+<img width="756" height="546" alt="image" src="https://github.com/user-attachments/assets/fa392c15-c8cc-432c-afbd-ff7a20d57f5d" />
+
 
 ---
 
