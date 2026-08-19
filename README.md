@@ -1,26 +1,22 @@
-# \# Python-Mini-Projects
+# Python Mini Projects
 
-# 
+A collection of Python mini projects for learning, practice, and portfolio development.
 
-# A collection of Python mini projects for learning, practice, and portfolio development.
+## Projects
 
-# 
+| # | Project | Description | Status |
+|---|---|---|---|
+| 1 | [Random Joke Generator](./Random_Joke_Generator) | Generates random jokes using Python. | ✅ Completed |
 
-# \## Projects
+## Project Categories
 
-# 
+- 🐍 Python Basics
+- 🖥️ GUI Applications
+- 🌐 API-Based Applications
+- 📁 File Handling
+- 🗄️ Database Applications
+- 🤖 AI / Machine Learning
 
-# | Project | Description |
+## About
 
-# |---|---|
-
-# | \[Random Joke Generator](https://github.com/nirjhar0990/random-joke-generator) | A Python application that generates random jokes. |
-
-# 
-
-# \## About
-
-# 
-
-# This repository serves as an index of my Python mini projects. Each project is maintained in its own GitHub repository.
-
+This repository contains my Python mini projects, developed as part of my programming practice and learning journey.
