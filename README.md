@@ -1,8 +1,21 @@
 # Python Mini Projects
 
-A collection of Python mini projects for learning, practice, and portfolio development.
+A collection of Python mini projects for learning, practice, problem solving, and portfolio development.
 
 ## Projects
+
+### 1. Random Joke Generator
+
+A Python-based Random Joke Generator application that retrieves and
+displays random jokes.
+
+**Technologies:**
+- Python
+- REST API
+- JSON
+- Tkinter
+- PyInstaller
+
 
 | # | Project | Description | Status |
 |---|---|---|---|
@@ -19,4 +32,15 @@ A collection of Python mini projects for learning, practice, and portfolio devel
 
 ## About
 
-This repository contains my Python mini projects, developed as part of my programming practice and learning journey.
+This repository contains practical Python mini projects covering:
+
+- Python programming
+- Object-oriented programming
+- File handling
+- APIs
+- GUI applications
+- Automation
+- Data processing
+- Database programming
+
+More projects will be added regularly.
