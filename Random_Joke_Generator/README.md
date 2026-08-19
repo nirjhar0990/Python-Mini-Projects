@@ -66,6 +66,7 @@ random-joke-generator/
 │   └── application.png
 └── README.md          # Project documentation
 
+```
 
 ## 🚀 Getting Started
 Prerequisites
@@ -127,5 +128,8 @@ JSON
 ## 📜 License
 Distributed under the MIT License. See LICENSE for details.
 
-## Author:
-Nirjhar Dutta
+## 👨‍💻 Author
+
+**Nirjhar Dutta**
+
+Senior SQL DBA | Python Enthusiast | Database Developer
