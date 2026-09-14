@@ -30,8 +30,8 @@ A small data analytics project that demonstrates how Python and NumPy can be use
 
 | # | Project | Description | Status |
 |---|---|---|---|
-| 1 | [Random Joke Generator]| Generates random jokes using Python. | ✅ Completed |
-| 2 | [Retail Sales Analytics with NumPy]| Retail sales analysis using NumPy and Power BI. | ✅ Completed |
+| 1 | Random Joke Generator | Generates random jokes using Python. | ✅ Completed |
+| 2 | Retail Sales Analytics with NumPy | Retail sales analysis using NumPy and Power BI. | ✅ Completed |
 
 ## Project Categories
 
@@ -41,7 +41,7 @@ A small data analytics project that demonstrates how Python and NumPy can be use
 - 📁 File Handling
 - 🗄️ Database Applications
 - 🤖 AI / Machine Learning
--.📈 Data Analysis
+- 📈 Data Analysis
 - 🧹 Data Cleaning
 
 ## About
