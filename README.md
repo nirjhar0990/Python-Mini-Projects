@@ -16,10 +16,22 @@ displays random jokes.
 - Tkinter
 - PyInstaller
 
+### 2. Retail Sales Analytics with NumPy
+
+A small data analytics project that demonstrates how Python and NumPy can be used to clean, validate, transform, and analyze messy retail sales data.
+
+**Technologies:**
+
+- Python
+- NumPy
+- Power BI
+
+
 
 | # | Project | Description | Status |
 |---|---|---|---|
-| 1 | [Random Joke Generator](./Random_Joke_Generator) | Generates random jokes using Python. | ✅ Completed |
+| 1 | [Random Joke Generator]| Generates random jokes using Python. | ✅ Completed |
+| 2 | [Retail Sales Analytics with NumPy]| Retail sales analysis using NumPy and Power BI. | ✅ Completed |
 
 ## Project Categories
 
@@ -29,6 +41,8 @@ displays random jokes.
 - 📁 File Handling
 - 🗄️ Database Applications
 - 🤖 AI / Machine Learning
+-.📈 Data Analysis
+- 🧹 Data Cleaning
 
 ## About
 
@@ -42,5 +56,7 @@ This repository contains practical Python mini projects covering:
 - Automation
 - Data processing
 - Database programming
+- Data Analysis
+- Data Cleaning
 
 More projects will be added regularly.
